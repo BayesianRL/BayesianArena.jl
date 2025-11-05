@@ -1,3 +1,3 @@
 var documenterSearchIndex = {"docs":
-[{"location":"#BayesianArenas","page":"Homepage","title":"BayesianArenas","text":"","category":"section"}]
+[{"location":"#BayesianArena","page":"Homepage","title":"BayesianArena","text":"","category":"section"}]
 }
