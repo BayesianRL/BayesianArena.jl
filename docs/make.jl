@@ -1,3 +1,12 @@
 using Documenter
 
-makedocs(sitename="BayesianArena Documentation")
+makedocs(sitename="BayesianArena.jl",
+         remotes=nothing,
+         pages=[
+            "Homepage" => "index.md"
+         ]
+)
+
+deploydocs(
+    repo = "github.com/BayesianRL/BayesianArena.jl.git",
+)

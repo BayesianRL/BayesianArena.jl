@@ -1,1 +1,1 @@
-# BayesianArenas
+# BayesianArena
