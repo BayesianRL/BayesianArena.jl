@@ -1,2 +1,3 @@
 [deps]
+BayesianArena = "9a958591-37c7-4438-b3c6-7968ddd9fc0d"
 Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"

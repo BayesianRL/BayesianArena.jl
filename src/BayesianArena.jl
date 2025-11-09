@@ -1,5 +1,6 @@
 module BayesianArena
 
-# Write your package code here.
+include("base.jl")
+include("games.jl")
 
 end
